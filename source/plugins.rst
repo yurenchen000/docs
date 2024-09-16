@@ -346,6 +346,9 @@ https://github.com/mchelem/terminator-editor-plugin
 https://github.com/papajoker/editor_terminator
   - editor_plugin: Another text editor launcher
 
+https://github.com/yurenchen000/terminator-hints-plugin
+  - editor_plugin: Kitty Hints feature in terminator
+
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Session / Layout
