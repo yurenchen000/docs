@@ -349,6 +349,9 @@ https://github.com/papajoker/editor_terminator
 https://github.com/yurenchen000/terminator-hints-plugin
   - editor_plugin: Kitty Hints feature in terminator
 
+https://github.com/yurenchen000/terminator-trzsz-plugin
+  - file transmit: use `lrzsz` in terminator (trzsz dragfile support)
+
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Session / Layout
